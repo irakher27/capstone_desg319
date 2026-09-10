@@ -1,9 +1,10 @@
 Problem: College students have creative interests 
 but often lack the motivation or energy to actually
-create, choosing to scroll or sleep instead.
+create, choosing to use their phones or sleep instead.
 
 Goal: Make creativity easier to start.
 
 Solution: Build a room-based app that suggests 
 small, fun DIY activities based on the user’s time,
-mood, and available materials.
+mood, interests and available materials.
+nice idea
